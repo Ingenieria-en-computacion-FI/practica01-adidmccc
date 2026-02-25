@@ -1,6 +1,6 @@
+#include <stdio.h> 
 
-#include <stdio.h>
-int main(){
-    // Resolver ejercicio 10
-    return 0;
+int main() {
+    int gigante[10000000];
+    return 0; 
 }
